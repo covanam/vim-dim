@@ -27,7 +27,7 @@ highlight Constant       ctermfg=13
 highlight Special        ctermfg=13
 highlight Identifier     cterm=NONE ctermfg=14
 highlight Statement      ctermfg=10
-highlight PreProc        ctermfg=12
+highlight PreProc        ctermfg=11
 highlight Type           ctermfg=14
 highlight Underlined     cterm=underline ctermfg=13
 highlight Ignore         ctermfg=15

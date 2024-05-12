@@ -25,7 +25,7 @@ highlight Search         ctermfg=0    ctermbg=11
 " columns.
 highlight LineNr       ctermfg=8
 highlight CursorLineNr ctermfg=7
-highlight Comment      ctermfg=12
+highlight Comment      ctermfg=11
 highlight ColorColumn  ctermfg=7    ctermbg=8
 highlight Folded       ctermfg=7    ctermbg=8
 highlight FoldColumn   ctermfg=7    ctermbg=8
